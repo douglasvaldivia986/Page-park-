@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(imagenes/0010.webp);
+    background-image: url(../imagenes/0010.webp);
     background-repeat: no-repeat;
     background-size: 100% 100vh;
     background-attachment: fixed;
