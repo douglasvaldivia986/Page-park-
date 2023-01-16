@@ -9,16 +9,20 @@ body {
     background-size: 100% 100%;
 }
 
-#send {
+#lare {
     display: none;
 }
 
-#drive {
+#sb {
     display: none;
 }
 
-#shar {
+#tape {
     display: none;
+}
+
+#mega {
+	display: none;
 }
 
 .link-principal {
@@ -174,6 +178,10 @@ body {
 .boton-server:hover {
     cursor: pointer;
     background-color: rgb(74, 128, 165);
+}
+
+.boton-server:active {
+	background-color: #3d4e8b;
 }
 
 .cont_title-main {
